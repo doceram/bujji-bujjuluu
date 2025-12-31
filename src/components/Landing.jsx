@@ -3,10 +3,10 @@ export default function Landing({ onStart }) {
   return (
     <div className="h-screen flex flex-col justify-center items-center bg-gradient-to-br from-pink-200 to-red-300 text-center">
       <h1 className="text-4xl md:text-6xl font-love text-white mb-6">
-        Hey Love ❤️
+        Hiiii Bujjiii ❤️
       </h1>
       <p className="text-white mb-8 text-lg">
-        I made something special for you
+        I made something special for youuuuu 🫂
       </p>
       <button
         onClick={onStart}
